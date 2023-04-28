@@ -72,6 +72,8 @@ shields.io: https://shields.io/
 
 Heroku: https://dashboard.heroku.com/apps
 
+Miniature Eureka for starter code: https://github.com/coding-boot-camp/miniature-eureka
+
 
 ## License
 
